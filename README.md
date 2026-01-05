@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&secondaryColor=3a7bd5&height=200&section=header&text=Oles%20Melnik&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&secondaryColor=32CD32&height=200&section=header&text=Oles%20Melnik&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h1 align="center">🚀 Full Stack Developer · Mobile & Web</h1>
@@ -16,7 +16,7 @@
 ### 📖 About Me
 **Crafting digital serenity through code.** I design and build high-performance apps with a focus on UX, clean architecture, and real-world impact.
 
-* 🔭 **Current focus:** Mastering AI-driven automation to accelerate development workflows and processing speed.
+* 🔭 **Current focus:** Mastering AI-driven automation to accelerate development workflows and optimize processing speed.
 * 📱 **Expertise:** Delivering seamless end-to-end solutions across Web, Mobile (iOS/Android), and robust Backend architectures.
 * 🌱 **Philosophy:** Leveraging the right tools and modern tech to build scalable, intelligent software.
 
@@ -34,17 +34,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlesMelnik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlesMelnik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📁 Featured Projects
-> Check pinned repos for full showcases 👇
-
 * **MyTrackAI** — Intelligent calorie & nutrition tracking (`React Native` + `TS`)
 * **GlycoAI** — Health tracking with rapid feature iteration
 * **Syma** — Secure content monetization platform
