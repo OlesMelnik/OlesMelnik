@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&secondaryColor=32CD32&height=200&section=header&text=Oles%20Melnik&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&secondaryColor=00FA9A&height=200&section=header&text=Oles%20Melnik&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h1 align="center">🚀 Full Stack Developer · Mobile & Web</h1>
