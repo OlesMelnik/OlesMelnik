@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oles%20Melnik&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&secondaryColor=3a7bd5&height=200&section=header&text=Oles%20Melnik&fontSize=70&animation=fadeIn" />
 </p>
 
 <h1 align="center">🚀 Full Stack Developer · Mobile & Web</h1>
@@ -16,9 +16,9 @@
 ### 📖 About Me
 **Crafting digital serenity through code.** I design and build high-performance apps with a focus on UX, clean architecture, and real-world impact.
 
-* 🔭 **Current focus:** Exploring automation and cloud-native deployments.
-* 📱 **Expertise:** Bridging the gap between sleek Mobile UI and robust Backend services.
-* 🌱 **Philosophy:** Always learning, building tools that solve real problems.
+* 🔭 **Current focus:** Mastering AI-driven automation to accelerate development workflows and processing speed.
+* 📱 **Expertise:** Delivering seamless end-to-end solutions across Web, Mobile (iOS/Android), and robust Backend architectures.
+* 🌱 **Philosophy:** Leveraging the right tools and modern tech to build scalable, intelligent software.
 
 ---
 
@@ -30,14 +30,14 @@
 | **Frontend** | `React`, `Redux`, `Zustand`, `Tailwind CSS`, `GraphQL` |
 | **Mobile** | `React Native`, `Expo`, `Android/iOS Development` |
 | **Backend/Cloud** | `Node.js`, `Express`, `Supabase`, `Firebase`, `GCP` |
-| **DevOps/Tools** | `Git`, `VS Code`, `Vim`, `Docker` |
+| **DevOps/Tools** | `Git`, `VS Code`, `Vim`, `Docker`, `AI Automation` |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlesMelnik&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlesMelnik&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OlesMelnik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlesMelnik&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,15 +53,11 @@
 
 ### 📫 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/oles-melnyk-385675209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oles Melnik" height="30" width="40" /></a>
-<a href="https://olesmelnik.pages.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="mailto:olesmelnik24@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olesmelnik" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://olesmelnik.pages.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Website" /></a>
+<a href="mailto:olesmelnik24@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</p>
 
 <p align="center">⭐ Thanks for visiting — let’s build something meaningful 🚀</p>
