@@ -27,14 +27,6 @@ I design and build high‑performance apps with focus on UX, clean architecture,
 
 ---
 
-## 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlesMelnik&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
----
-
 ## 📫 Let’s Connect
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn‑Oles%20Melnik‑0A66C2?logo=linkedin)](https://linkedin.com/)
 [![Website](https://img.shields.io/badge/Portfolio‑Site‑blue?logo=github)](https://olesmelnik.pages.dev)
